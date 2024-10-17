@@ -16,5 +16,10 @@ namespace WinFormsApp1
 		{
 			// Funcion 01
 		}
+
+		void Demo02()
+		{
+			// Funcion 02
+		}
 	}
 }
