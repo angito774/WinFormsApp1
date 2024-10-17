@@ -35,18 +35,20 @@
 			// label1
 			// 
 			label1.AutoSize = true;
-			label1.Location = new Point(168, 110);
+			label1.Font = new Font("Segoe UI", 18F);
+			label1.Location = new Point(105, 79);
 			label1.Name = "label1";
-			label1.Size = new Size(65, 15);
+			label1.Size = new Size(131, 32);
 			label1.TabIndex = 0;
 			label1.Text = "MASTERRR";
 			// 
 			// label2
 			// 
 			label2.AutoSize = true;
-			label2.Location = new Point(168, 158);
+			label2.Font = new Font("Segoe UI", 18F);
+			label2.Location = new Point(105, 127);
 			label2.Name = "label2";
-			label2.Size = new Size(42, 15);
+			label2.Size = new Size(88, 32);
 			label2.TabIndex = 1;
 			label2.Text = "DEVVV";
 			// 
